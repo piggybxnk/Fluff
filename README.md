@@ -5,8 +5,6 @@ Does not require ~~optifine.~~
 
 Modrinth Page: https://modrinth.com/resourcepack/fluff
 
-⚠️ **THIS IS IN ALPHA TESTING! THERE WILL BE BUGS AND/OR LAG.**
-
 Showcase:
 ![Fluff](https://cdn.modrinth.com/data/6ipEcSdP/images/19af6d0f4522180cf4c47b67ebf6d7cb9d367ee5.png)
 
